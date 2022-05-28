@@ -1,0 +1,5 @@
+﻿  ColorClasifierGUI.cpp
+c:\users\mojtaba_morteza\source\repos\colorclasifiergui\colorclasifiergui\colorclasifiergui.h(39): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mojtaba_morteza\source\repos\colorclasifiergui\colorclasifiergui\colorclasifiergui.h(42): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mojtaba_morteza\source\repos\colorclasifiergui\colorclasifiergui\colorclasifiergui.cpp(60): warning C4305: 'argument': truncation from 'double' to 'float'
+  ColorClasifierGUI.vcxproj -> C:\Users\Mojtaba_Morteza\source\repos\ColorClasifierGUI\Debug\ColorClasifierGUI.exe
